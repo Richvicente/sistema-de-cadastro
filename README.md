@@ -6,6 +6,6 @@ Para rodar esse projeto na sua máquina, por favor digite:
 
 
 ```
-npm install node.js
+node app.js
 
 ```
